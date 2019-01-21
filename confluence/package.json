@@ -1,0 +1,13 @@
+{
+  "id": "Confluence",
+  "name": "Confluence",
+  "version": "1.0.0",
+  "description": "Sibintek soft Confluence Recipe ",
+  "main": "index.js",
+  "author": "Dmitry Pugachev <dk@pugachev.pro>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://conf-dirpp.sibintek.ru/login.action?os_destination=%2F",
+    "hasIndirectMessages": false
+  }
+}

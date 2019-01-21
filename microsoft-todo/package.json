@@ -1,0 +1,24 @@
+{
+  "id": "microsoft-to-do",
+  "name": "microsoft-to-do",
+  "version": "1.0.0",
+  "description": "Microsoft To-Do",
+  "main": "index.js",
+  "author": "Erik Gärtner <erik@gartner.io>, edited Dmitry Pugachev <dk@pugachev.pro>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://todo.microsoft.com/login",
+    "serviceName": "Microsoft To-Do",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}

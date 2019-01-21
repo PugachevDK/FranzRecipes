@@ -1,0 +1,13 @@
+{
+    "id": "sibintek-owa",
+    "name": "Sibintek Outlook Web App",
+    "version": "1.0.0",
+    "description": "Sibintek Outlook Web App",
+    "main": "index.js",
+    "author": "Dmitryh Pugachev <dk@pugachev.pro>",
+    "repository": "https://github.com/adambirds/recipe-office365-owa",
+    "license": "MIT",
+    "config": {
+        "serviceURL": "https://mail.sibintek.ru/owa"
+    }
+}

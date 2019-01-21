@@ -1,0 +1,13 @@
+{
+  "id": "Jira",
+  "name": "Jira",
+  "version": "1.0.0",
+  "description": "Sibintek soft Jira Recipe ",
+  "main": "index.js",
+  "author": "Dmitry Pugachev <dk@pugachev.pro>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "http://jira-dirpp.sibintek.ru/secure/Dashboard.jspa",
+    "hasIndirectMessages": false
+  }
+}
